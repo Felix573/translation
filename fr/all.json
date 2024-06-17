@@ -25,10 +25,33 @@
   },
   "DOCUMENT": {
     "MENU": {
+      "DELETE": "Supprimer",
+      "EDIT_MODE": {
+        "READ": "Mode lecture seule",
+        "WRITE": "Mode création"
+      },
+      "EXPORT": "Exporter",
+      "MOVE": "Deplacer",
       "PRINT": "Imprimer",
       "RENAME": "Renommer",
       "STATS": "Statistiques",
-      "UNDO": "Annuler"
+      "UNDO": "Annuler",
+      "VIEW_GRAPH": "Voir graphique",
+      "VIEW_TRASH": "Voir corbeille"
+    }
+  },
+  "LANGUAGE": {
+    "LANGUAGE_WORD": "Langue"
+  },
+  "NOTIFICATIONS": {
+    "ARTICLE_DEFAULT": "Votre document",
+    "ARTICLE_VIEWS": {
+      "BODY_1": "Votre document"
+    },
+    "GROUP_DEFAULT": "Votre groupe",
+    "INVITE": {
+      "ACCEPT": "Accepter l'invitation",
+      "REJECT": "Rejeter"
     }
   }
 }
