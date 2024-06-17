@@ -169,8 +169,47 @@
       "AI_DROPDOWN": {
         "BASIC_CARDS": "Carte de base",
         "BASIC_CARDS_TOOLTIP": "Générez des cartes mémoires questions-réponses de base à partir du texte sélectionné.",
-        "CLOZE_CARDS": "Cartes à trous (Remplir les blancs)"
-      }
+        "CLOZE_CARDS": "Cartes à trous (Remplir les blancs)",
+        "GENERATE_SECTION": "GÉNÉRER"
+      },
+      "CLOZE_BTN_TOOLTIP": "Cartes à trous (Remplir les blancs)",
+      "COPY_IMAGE": "Copier l'image",
+      "COPY_TEXT": "Copier en texte brut",
+      "HIGHLIGHT": "Souligner",
+      "MAKE_IMG_OCC_BTN_TOOLTIP": "Créer des cartes mémoires avec occlusion de l'image",
+      "NO_TEXT_IN_PDF_WARN": "Ce fichier ne contient pas de calque de texte, mais vous pouvez toujours utiliser les zones de surbrillance pour annoter.",
+      "NOTE_BTN_TOOLTIP": "Note"
+    },
+    "EDIT_ANNOTATIONS": {
+      "ADVANCED_LINKING_OPTIONS": "Options de liaison avancées",
+      "DELETE_WARNING": "Cette surbrillance a {{notesCount, number}} {{ notesWord }} . Es-tu sûr de vouloir le supprimer?",
+      "TURN_INTO_CONCEPT": "Transformer en concept",
+      "VIEW_REFERENCES": "Voir les références"
+    },
+    "HEADER": {
+      "AREA_HIGHLIGHT_TOOLTIP": "Mise en surbrillance de la zone ( {{keyName}} + Glisser)",
+      "NUMBER_OF_PAGES_TOOLTIP": "nombre de pages",
+      "TOGGLE_DEFAULT_DOCUMENT_TOOLTIP": "Basculer le document par défaut"
+    },
+    "PDF_OPTIONS": {
+      "CHANGE_THEME": "Change le thème",
+      "DOWNLOAD_PDF": "Télécharger le PDF",
+      "LEARN_MORE": "Apprendre plus",
+      "OPEN_WEBPAGE_EXTERNALLY": "Ouvrir une page Web en externe",
+      "PDF_SETTINGS": "Paramètres",
+      "PDF_SETTINGS_MENU": {
+        "AUTO_HIGHLIGHT": "Mise en surbrillance automatique",
+        "AUTO_HIGHLIGHT_TOOLTIP": "Créez automatiquement des surbrillances une fois le texte sélectionné.",
+        "DISABLE_HEADER_BUTTONS": "Désactiver les boutons d'en-tête",
+        "DISABLE_HEADER_BUTTONS_TOOLTIP": "Désactivez l'apparition des boutons d'en-tête («) dans le lecteur.",
+        "SNAP_HIGHLIGHT_TO_WORDS": "Mettre en surbrillance les mots",
+        "SNAP_HIGHLIGHT_TO_WORDS_TOOLTIP": "Lorsque vous créez de nouveaux surlignages, sélectionnez uniquement des mots entiers."
+      },
+      "REFETCH_PAGE": "Récupérer la page",
+      "REFETCH_PAGE_TOOLTIP": "Cette page ne peut pas être récupérée si elle contient des surlignages existants.",
+      "SEARCH_IN_PDF": "Rechercher en PDF",
+      "SPLIT_PANES": "Volets divisés",
+      "SPLIT_PANES_TOOLTIP": "Divisez l'éditeur et la visionneuse PDF en volets séparés."
     }
   }
 }
