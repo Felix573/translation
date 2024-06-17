@@ -208,8 +208,47 @@
       "REFETCH_PAGE": "Récupérer la page",
       "REFETCH_PAGE_TOOLTIP": "Cette page ne peut pas être récupérée si elle contient des surlignages existants.",
       "SEARCH_IN_PDF": "Rechercher en PDF",
-      "SPLIT_PANES": "Volets divisés",
-      "SPLIT_PANES_TOOLTIP": "Divisez l'éditeur et la visionneuse PDF en volets séparés."
+      "SPLIT_PANES": "Diviser les volets",
+      "SPLIT_PANES_TOOLTIP": "Divisez l'éditeur et la visionneuse PDF en volets séparés.",
+      "THEMES": {
+        "CLASSIC_INVERT": "Inversion classique",
+        "DARK": "Sombre",
+        "LIGHT": "Lumineux",
+        "SOLARISED": "Solarisé",
+        "USE_REMNOTE_THEME": "Utiliser le thème RemNote"
+      }
+    },
+    "SEARCH_CTRL_F": {
+      "DONE": "Fait",
+      "INPUT_PLACEHOLDER": "Recherche"
+    }
+  },
+  "POPUPS": {
+    "CREATE_CONTENT_OPTIONS": {
+      "DOCUMENT": {
+        "TITLE": "Document"
+      },
+      "FOLDER": {
+        "DESCRIPTION": "Organisez les documents dans des dossiers.",
+        "TITLE": "Dossier"
+      },
+      "QUICK_ADD": {
+        "DESCRIPTION": "Capturez vos idées à la volée !",
+        "TITLE": "Ajout rapide"
+      },
+      "TABLE_TAG": {
+        "DESCRIPTION": "Créez une balise à utiliser avec les tableaux et les modèles.",
+        "TITLE": "Balise et tableau"
+      },
+      "TODAYS_DOCUMENT": {
+        "DESCRIPTION": "Les documents quotidiens sont parfaits pour la journalisation, les listes de tâches et bien plus encore.",
+        "TITLE": "Le document du jour"
+      },
+      "UPLOAD_FILE": {
+        "DESCRIPTION": "Mettez en surbrillance et référencez des PDF, des PPT, des documents Word, etc.",
+        "FEATURE_NAME": "Surlignage PDF",
+        "PAYWALL": "Vous avez atteint votre limite de téléchargements PDF."
+      }
     }
   }
 }
