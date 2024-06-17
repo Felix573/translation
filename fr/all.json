@@ -30,6 +30,10 @@
           "NO_CONTENT": {
             "SRC": "Le document que vous essayez de partager semble un peu vide. Veuillez ajouter au moins le minimum de rems, puis réessayez.",
             "SUBDOCUMENT": "Un de vos sous-documents semble un peu vide. Il ne sera pas publié tant qu'il n'aura pas le minimum de rems"
+          },
+          "NO_TITLE": {
+            "SRC": "Le document que vous essayez de partager n'a pas de titre. Vous devez en ajouter un avant de le publier.",
+            "SUBDOCUMENT": "L'un de vos sous-documents n'a pas de titre. Il ne sera pas publié tant qu'il n'en aura pas un."
           }
         }
       }
@@ -37,42 +41,118 @@
   },
   "DOCUMENT": {
     "DIALOGS": {
-      "DELETE_CONFIRM_DIALOG": "Etes-vous sûr de vouloir supprimer ce document?"
+      "DELETE_ALSO_UNSHARE": "Voulez-vous également annuler le partage du document ?",
+      "DELETE_CONFIRM_DIALOG": "Etes-vous sûr de vouloir supprimer ce document?",
+      "DELETE_UNSHARE_ERROR": "Une erreur s'est produite lors de l'annulation du partage de ce document. Veuillez annuler le partage manuellement.",
+      "DELETE_UNSHARE_OFFLINE_ERROR": "Vous êtes hors-ligne. Veuillez désactiver le partage du document manuellement lorsque vous serez de nouveau en ligne."
     },
     "MENU": {
+      "ADD_NESTED_DOCUMENT": "Ajouter un document imbriqué",
       "CHANGE_DOCUMENT_STATUS": "Changer le statut du document",
+      "CUSTOMIZE_SPACED_REPETITION": "Personnaliser la fréquence de répétition",
       "DELETE": "Supprimer",
       "EDIT_MODE": {
         "READ": "Mode lecture seule",
         "WRITE": "Mode création"
       },
       "EXPORT": "Exporter",
+      "FIND_OR_FILTER": "Rechercher ou filtrer",
+      "FIND_TEXT_REFERENCES": {
+        "DEPRECATION_WARNING": "Cette option est obsolète et il est recommandé d'utiliser la méthode alternative consistant à appuyer sur<keycode /> puis en recherchant des références textuelles à la place.",
+        "LABEL": "Rechercher des références de texte"
+      },
+      "MARK_AS_DOCUMENT": "Marquer comme document",
       "MOVE": "Deplacer",
+      "OPEN_IN_ANOTHER_PANE": "Ouvrir dans un autre volet",
+      "PIN_TO_SIDEBAR": "Épingler à la barre latérale",
       "PRINT": "Imprimer",
       "RENAME": "Renommer",
+      "SHOW_STUDY_BUTTON": "Afficher le bouton d'étude",
       "STATS": "Statistiques",
       "UNDO": "Annuler",
+      "UNPIN_FROM_SIDEBAR": "Retirer de la barre latérale",
+      "UNSHARE_DOCUMENT": "Annuler le partage du document",
       "VIEW_GRAPH": "Voir graphique",
       "VIEW_TRASH": "Voir corbeille"
+    },
+    "PUBLISH_STATUS": {
+      "DRAFT": "Brouillon",
+      "FINISHED": "Fini",
+      "PINNED": "Épinglé"
+    }
+  },
+  "FILE_UPLOADING": {
+    "CACHED_INFO": "Ce fichier est mis en cache pour une visualisation hors ligne et n'a peut-être pas encore été téléchargé.",
+    "LOCAL_ONLY_WARN": "Ce fichier n'a pas été téléchargé correctement et est stocké temporairement sur votre ordinateur.",
+    "LOCAL_WAITING_FOR_UPLOAD_WARN": "Ce fichier n'a pas encore été téléchargé et n'est stocké que localement.",
+    "NOT_FOUND": "Ce fichier est introuvable.",
+    "NOT_YET_UPLOADED": "Ce fichier n'a pas encore été téléchargé.",
+    "SNIPPING": {
+      "NON_PDF": "Veuillez essayer un autre outil de capture/collage ou contacter l'assistance.",
+      "PDF": "Veuillez contacter l'assistance."
     }
   },
   "LANGUAGE": {
-    "LANGUAGE_WORD": "Langue"
+    "LANGUAGE_WORD": "Langue",
+    "TRANSLATION_INFO_SETTINGS": "La traduction est toujours en cours ; vous rencontrerez un mélange d'anglais et de la langue sélectionnée.<br> Vous pouvez contribuer en consultant le<guideLink> Didacticiel</guideLink> puis en utilisant notre<editorLink> rédacteur web</editorLink> pour aider aux traductions."
   },
   "NOTIFICATIONS": {
     "ARTICLE_DEFAULT": "Votre document",
     "ARTICLE_VIEWS": {
-      "BODY_1": "Votre document"
+      "BODY_1": "Votre document",
+      "BODY_2": "a obtenu {{viewCount, number}} vues"
     },
+    "DOCUMENT_ADDED_TO_GROUP": {
+      "BODY": "a été ajouté à"
+    },
+    "EMPTY_STATE_MESSAGE": "Vous êtes à jour ! Vous recevrez des notifications lorsque quelqu'un interagira avec le contenu partagé sur votre <profileLink>profil</profileLink>",
+    "EMPTY_STATE_TITLE": "Vous n'avez aucune notification récente",
     "GROUP_DEFAULT": "Votre groupe",
+    "IMPORT": {
+      "BODY": "Quelqu'un a importé votre document"
+    },
     "INVITE": {
       "ACCEPT": "Accepter l'invitation",
+      "BODY": "vous a invité à rejoindre",
       "REJECT": "Rejeter"
+    },
+    "NEW_COMMENT": {
+      "BODY": "a commenté sur",
+      "BODY_ARTICLE": "a commenté votre document",
+      "BODY_COMMENT": "a répondu à votre commentaire",
+      "BODY_GROUP": "a envoyé une discussion à votre groupe"
+    },
+    "NEW_FOLLOWER": {
+      "BODY": "a commencé à vous suivre"
+    },
+    "NEW_LIKE": {
+      "BODY": "a aimé"
+    },
+    "POPUP_TITLE": "Notifications récentes"
+  },
+  "ONBOARDING": {
+    "SIDEBAR": {
+      "INITIAL": {
+        "0": {
+          "TITLE": "Créer un dossier"
+        },
+        "1": {
+          "TITLE": "Ajouter une puce"
+        },
+        "2": {
+          "TITLE": "Créer une carte d'apprentissage"
+        },
+        "3": {
+          "TITLE": "Notes de structure utilisant l'onglet"
+        }
+      }
     }
   },
   "PAGES": {
     "ALL_NOTES": {
       "SORT": {
+        "ASCENDING": "A -> Z",
+        "BY_CREATION_TIME": "Par heure de création",
         "BY_MODIFICATION": "Par modification",
         "BY_TITLE": "Par titre",
         "DESCENDING": "Z -> A",
@@ -87,7 +167,9 @@
   "PDF": {
     "ADD_ANNOTATIONS": {
       "AI_DROPDOWN": {
-        "BASIC_CARDS": "Carte de base"
+        "BASIC_CARDS": "Carte de base",
+        "BASIC_CARDS_TOOLTIP": "Générez des cartes mémoires questions-réponses de base à partir du texte sélectionné.",
+        "CLOZE_CARDS": "Cartes à trous (Remplir les blancs)"
       }
     }
   }
