@@ -22,5 +22,13 @@
       "NOTE_other": "Notes"
     },
     "NEW": "Nouveau"
+  },
+  "DOCUMENT": {
+    "MENU": {
+      "PRINT": "Imprimer",
+      "RENAME": "Renommer",
+      "STATS": "Statistiques",
+      "UNDO": "Annuler"
+    }
   }
 }
