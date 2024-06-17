@@ -1,0 +1,15 @@
+{
+  "COMMON": {
+    "ACTIONS": {
+      "APPLY": "Appliquer",
+      "COPY": "Copier",
+      "CREATE": "Créer",
+      "DELETE": "Supprimer",
+      "DUPLICATE": "Dupliquer",
+      "EDIT": "Modifier",
+      "HIDE": "Cacher",
+      "REMOVE": "Enlever",
+      "UPDATE": "Mettre à jour"
+    }
+  }
+}
