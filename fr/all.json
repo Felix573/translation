@@ -69,5 +69,26 @@
       "ACCEPT": "Accepter l'invitation",
       "REJECT": "Rejeter"
     }
+  },
+  "PAGES": {
+    "ALL_NOTES": {
+      "SORT": {
+        "BY_MODIFICATION": "Par modification",
+        "BY_TITLE": "Par titre",
+        "DESCENDING": "Z -> A",
+        "OLDEST_CREATION_FIRST": "Ancienne création en premier",
+        "OLDEST_FIRST": "Ancien en premier",
+        "RECENTLY_CREATED": "Récemment créé",
+        "RECENTLY_MODIFIED": "Récemment modifié"
+      },
+      "TITLE": "Toutes les notes"
+    }
+  },
+  "PDF": {
+    "ADD_ANNOTATIONS": {
+      "AI_DROPDOWN": {
+        "BASIC_CARDS": "Carte de base"
+      }
+    }
   }
 }
