@@ -9,7 +9,18 @@
       "EDIT": "Modifier",
       "HIDE": "Cacher",
       "REMOVE": "Enlever",
-      "UPDATE": "Mettre à jour"
-    }
+      "UPDATE": "Mettre à jour",
+      "VIEW": "Voir"
+    },
+    "AI": {
+      "AI_FLASHCARDS": "Carte d'apprentissage IA"
+    },
+    "GENERAL": {
+      "FLASHCARD_one": "Carte d'apprentissage",
+      "FLASHCARD_other": "Carte d'apprentissage",
+      "NOTE_one": "Note",
+      "NOTE_other": "Notes"
+    },
+    "NEW": "Nouveau"
   }
 }
