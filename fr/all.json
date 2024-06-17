@@ -40,6 +40,7 @@
       "DELETE_CONFIRM_DIALOG": "Etes-vous sûr de vouloir supprimer ce document?"
     },
     "MENU": {
+      "CHANGE_DOCUMENT_STATUS": "Changer le statut du document",
       "DELETE": "Supprimer",
       "EDIT_MODE": {
         "READ": "Mode lecture seule",
