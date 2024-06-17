@@ -23,6 +23,18 @@
     },
     "NEW": "Nouveau"
   },
+  "COMMUNITY": {
+    "ARTICLES": {
+      "ERRORS": {
+        "SHARING": {
+          "NO_CONTENT": {
+            "SRC": "Le document que vous essayez de partager semble un peu vide. Veuillez ajouter au moins le minimum de rems, puis réessayez.",
+            "SUBDOCUMENT": "Un de vos sous-documents semble un peu vide. Il ne sera pas publié tant qu'il n'aura pas le minimum de rems"
+          }
+        }
+      }
+    }
+  },
   "DOCUMENT": {
     "MENU": {
       "DELETE": "Supprimer",
