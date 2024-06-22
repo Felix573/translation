@@ -594,9 +594,51 @@
         },
         "NEW_LIKE": {
           "LABEL": "Soyez averti lorsqu'un document que vous avez partagé est apprécié",
-          "TITLE": "J'aime les notifications"
+          "TITLE": "Notifications j'aime"
+        },
+        "STREAK": {
+          "LABEL": "Recevez des notifications quotidiennes pour poursuivre votre série d'études !",
+          "TITLE": "Notifications de séries"
         }
+      },
+      "ENABLE_COMMUNITY_LABEL": "Recevez des notifications instantanées lorsque quelqu'un interagit avec votre contenu partagé",
+      "ENABLE_COMMUNITY_TITLE": "Notifications de cartes mémoire partagées",
+      "ENABLE_DUE_CARDS_LABEL": "Affichez le nombre total de cartes dues sous forme de badge sur l'icône de l'application RemNote sur votre écran d'accueil",
+      "ENABLE_DUE_CARDS_TITLE": "Insigne des cartes dues",
+      "ENABLE_EMAIL_LABEL": "Recevez des notifications directement dans votre boîte de réception",
+      "ENABLE_EMAIL_TITLE": "Activer les notifications de la communauté par courrier électronique",
+      "ENABLE_PUSH_LABEL": "Recevez des notifications directement sur votre appareil",
+      "ENABLE_PUSH_TITLE": "Notifications push",
+      "ENABLE_STREAK_DESCRIPTION": "Recevez des rappels quotidiens à 18 heures concernant votre série de cartes mémoire",
+      "ENABLE_STREAK_TITLE": "Notifications de séquences mobiles",
+      "PUSH_ENABLE_MESSAGE": "Les notifications push ne sont pas configurées sur cet appareil. Cliquez ici pour les configurer !",
+      "TOGGLE_LABEL": "Contrôlez les notifications que vous souhaitez recevoir directement sur votre appareil",
+      "TOGGLE_TITLE": "Prévenez-moi quand :"
+    },
+    "PLANS": {
+      "KEYWORDS": "inviter des amis changer de plan abonnement gagner des crédits remnote gratuit envoyer un tweet e-mail choisir un plan formation continue pro répartition des fonctionnalités options de tarification",
+      "TITLE": "Des plans"
+    },
+    "SIDEBAR": {
+      "CUSTOMIZE_SIDEBAR_SECTIONS": {
+        "TITLE": "Organisation de la barre latérale"
+      },
+      "DOCUMENT_STATUSES": {
+        "LABEL": "Organisez les documents en catégories Brouillon, Terminé et Épinglé.",
+        "TITLE": "Statuts des documents"
+      },
+      "PRIVACY_NOTE": "Confidentialité : lisez notre<policyLink> politique de confidentialité</policyLink> , ou modifiez vos paramètres dans notre<hubLink> Centre de confidentialité</hubLink> .",
+      "SORT_SIDEBAR": {
+        "KEYWORDS": "organiser les barres latérales trier de a à z",
+        "TITLE": "Trier la barre latérale"
       }
     }
+  },
+  "SIDEBAR": {
+    "LABEL_ALL_NOTES": "Toutes les notes",
+    "LABEL_COMMUNITY": "Cartes memoire partagées",
+    "LABEL_EDIT_LATER": "Modifier plus tard",
+    "LABEL_FLASHCARDS": "Cartes memoire",
+    "LABEL_INTERACTIVE_TOUR": "Visite interactive"
   }
 }
