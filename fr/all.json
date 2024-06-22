@@ -558,6 +558,44 @@
       "ENTER_TO_OUTDENT": {
         "LABEL": "Lorsque vous appuyez sur Entrée sur un Rem sans contenu qui ne se trouve pas au niveau supérieur du document, dépassez d'un niveau. (Si désactivé, restez au même niveau et laissez un Rem vide.)",
         "TITLE": "Appuyez sur Entrée pour sortir"
+      },
+      "SPLIT_WITH_ALT_ENTER": {
+        "DESCRIPTION": {
+          "MAC": "Divisez le texte en Rems séparés lorsque vous appuyez sur Opt+retour depuis le milieu de Rem.",
+          "PC": "Divisez le texte en Rems séparés lorsque vous appuyez sur Alt+Entrée à partir du milieu de Rem."
+        },
+        "TITLE": {
+          "MAC": "Diviser avec Opt+Retour",
+          "PC": "Diviser avec Alt+Entrée"
+        }
+      }
+    },
+    "NOTIFICATIONS": {
+      "DESCRIPTIONS": {
+        "ARTICLE_VIEWS": {
+          "LABEL": "Soyez averti lorsque votre document partagé commence à gagner des vues significatives",
+          "TITLE": "Notifications de vues de documents"
+        },
+        "DOCUMENT_ADDED_TO_GROUP": {
+          "LABEL": "Soyez averti lorsqu'un document est ajouté à votre groupe",
+          "TITLE": "Document ajouté à la notification du groupe"
+        },
+        "INVITE": {
+          "LABEL": "Soyez averti lorsque vous avez été invité à un groupe",
+          "TITLE": "Inviter des notifications"
+        },
+        "NEW_COMMENT": {
+          "LABEL": "Soyez averti lorsque quelqu'un commente votre document partagé",
+          "TITLE": "Notifications de commentaires"
+        },
+        "NEW_FOLLOWER": {
+          "LABEL": "Soyez averti lorsque quelqu'un vous suit",
+          "TITLE": "Notifications des abonnés"
+        },
+        "NEW_LIKE": {
+          "LABEL": "Soyez averti lorsqu'un document que vous avez partagé est apprécié",
+          "TITLE": "J'aime les notifications"
+        }
       }
     }
   }
