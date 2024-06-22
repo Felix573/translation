@@ -313,6 +313,9 @@
       "VERSION": {
         "KEYWORDS": "version",
         "TITLE": "Version de l'application"
+      },
+      "NOTIFICATIONS": {
+        "DESCRIPTION": "Envoyer des rappels mobiles concernant votre série quotidienne de cartes d'étude. Les rappels arrivent chaque jour à 18h, dans votre fuseau horaire local."
       }
     },
     "EARN_CREDIT": {
