@@ -758,6 +758,26 @@
     "YOUR_TAGS": "Vos balises"
   },
   "TEMPLATES": {
-    "ADD_NEW_PROPERTY": "Ajouter une nouvelle propriété"
+    "ADD_NEW_PROPERTY": "Ajouter une nouvelle propriété",
+    "AUTO_APPLY": "Appliquer automatiquement",
+    "AUTO_APPLY_HELP_TEXT": "Ce modèle sera automatiquement appliqué à toutes les lignes de son tableau, ou à tous les Rems balisés avec le modèle.",
+    "CREATE_TEMPLATE": "Créer un modèle",
+    "HIDE_CONFIGURATION": "Masquer la configuration",
+    "NEW_TEMPLATE": "Nouveau modèle",
+    "PROPERTIES_HELP_TEXT": {
+      "0": "Les propriétés décrivent une balise. Par exemple, pour une balise appelée « Livre », ajoutez des propriétés nommées Auteur, Genre, Statut de lecture, et plus encore !"
+    },
+    "PROPERTY_one": "Propriété",
+    "PROPERTY_other": "Propriétés",
+    "PROPERTY_WITH_COUNT_one": "{{count, number}} Propriété",
+    "PROPERTY_WITH_COUNT_other": "{{count, number}} Propriétés",
+    "SET_AS_AUTO_APPLY_TEMPLATE": "Définir comme modèle d'application automatique",
+    "TEMPLATE_one": "Modèle",
+    "TEMPLATE_other": "Modèles",
+    "TEMPLATE_WITH_COUNT_one": "{{count, number}} Modèle",
+    "TEMPLATE_WITH_COUNT_other": "{{count, number}} Modèles",
+    "TEMPLATES_HELP_TEXT": "Le modèle d'une balise est un document RemNote qui peut être automatiquement copié dans Rems balisé. Ajoutez des en-têtes, des listes de contrôle et bien plus encore directement dans votre modèle.",
+    "TURN_OFF_AUTO_APPLY": "Désactiver l'application automatiquement",
+    "VIEW_CONFIGURATION": "Configurer la balise"
   }
 }
