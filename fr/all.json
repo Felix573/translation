@@ -639,6 +639,44 @@
     "LABEL_COMMUNITY": "Cartes memoire partagées",
     "LABEL_EDIT_LATER": "Modifier plus tard",
     "LABEL_FLASHCARDS": "Cartes memoire",
-    "LABEL_INTERACTIVE_TOUR": "Visite interactive"
+    "LABEL_INTERACTIVE_TOUR": "Visite interactive",
+    "LABEL_ONBOARDING_CALL": "Configurer un appel d'intégration",
+    "LABEL_RESUME_INTERACTIVE_TOUR": "Reprendre la visite interactive",
+    "LABEL_TODAYS_NOTE": "Note du jour",
+    "LABEL_TUTORIALS": "Tutoriels",
+    "TOOLTIP_EDIT_LATER_QUEUE": "Ouvrir la file d'attente Modifier plus tard",
+    "TOOLTIP_FLASHCARD_HOME": "Aller à la page d'accueil des cartes mémoires"
+  },
+  "SOURCES": {
+    "LINK_SOURCE": {
+      "ENTER_URL": "Entrer l'URL",
+      "INVALID_URL": "URL invalide",
+      "LABEL": "Lien",
+      "LINK": "Lien",
+      "LINK_WITH_COUNT_one": "{{count, number}} Lien",
+      "LINK_WITH_COUNT_other": "{{count, number}} Liens",
+      "OPEN_IN_READER": "Ouvrir dans le lecteur",
+      "SEARCH_PLACEHOLDER": "Collez un lien ou recherchez une référence"
+    },
+    "UPLOAD_SOURCE": {
+      "EMPTY": "Supprimez des fichiers PDF, des documents Word, des PPT et<moreLink> plus</moreLink> ici!",
+      "INVALID": "Désolé, RemNote ne peut pas accepter les téléchargements de fichiers de ce type.",
+      "IMPORT_INSTEAD": "RemNote ne peut pas accepter les téléchargements de fichiers de ce type. Cependant, nous pourrons peut-être importer les notes ou les flashcards dans ce fichier ! Essayez de choisir « Importer » dans le menu du compte en haut à gauche.",
+      "LABEL": "Télécharger",
+      "PDF": "PDF",
+      "PDF_WITH_COUNT_one": "{{count, number}} PDF",
+      "PDF_WITH_COUNT_other": "{{count, number}} PDF",
+      "SELECT_FILES": "Sélectionnez les fichiers",
+      "SELECT_FILES_TO_UPLOAD": "Sélectionnez les fichiers à télécharger",
+      "UPLOADING": "Téléchargement..."
+    },
+    "WIKIMEDIA_COMMONS": {
+      "EMPTY": "Supprimez des fichiers PDF, des documents Word, des PPT et<moreLink> plus</moreLink> ici!",
+      "INVALID": "Format de fichier incorrect !",
+      "LABEL": "Recherche d'image",
+      "PDF": "PDF",
+      "PDF_WITH_COUNT_one": "{{count, number}} PDF",
+      "PDF_WITH_COUNT_other": "{{count, number}} PDF"
+    }
   }
 }
