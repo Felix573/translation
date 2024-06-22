@@ -444,6 +444,7 @@
           "TITLE": "Seuil de sangsue"
         },
         "NEW_CARDS_PER_DAY": {
+          "DESCRIPTION": "Incluez au maximum ce nombre de cartes mémoire nouvellement créées dans votre file d'attente de cartes mémoire chaque jour. De cette façon, les nouvelles cartes entreront dans votre file d'attente à un rythme quotidien régulier, plutôt qu'en un seul lot massif.",
           "TITLE": "Nombre maximum de nouvelles cartes par jour"
         },
         "NEXT_DAY_STARTS_AT": {
@@ -454,7 +455,83 @@
           "CONFIRM_MESSAGE": "Êtes-vous sûr de vouloir réinitialiser tous les paramètres des cartes mémoire à leurs valeurs par défaut ?",
           "DESCRIPTION": "Restaurez tous les paramètres des cartes mémoire à leurs valeurs par défaut.",
           "TITLE": "Réinitialiser les paramètres des cartes mémoires"
+        },
+        "SIMPLIFIED_FLASHCARD_BUTTONS": {
+          "DESCRIPTION": "Afficher uniquement les boutons « oublié » et « rappelé avec effort » pour les cartes mémoire.",
+          "TITLE": "Boutons cartes mémoire simplifiés"
+        },
+        "STALE_CARDS_PER_DAY": {
+          "DESCRIPTION": "Réintroduisez au maximum autant de cartes mémoire périmées dans votre file d'attente de cartes mémoire chaque jour. Les cartes périmées sont celles qui sont temporairement retirées de la file d'attente parce que vous ne les avez pas étudiées depuis longtemps et que les réapprendre toutes en même temps serait épuisant.",
+          "TITLE": "Nombre maximum de cartes périmées par jour"
+        },
+        "TEXT_TO_SPEECH_VOICE": {
+          "DESCRIPTION": "La voix utilisée pour la synthèse vocale. Notez que certaines voix ne fonctionnent que pour certaines langues.",
+          "TITLE": "Synthèse vocale"
+        },
+        "TEXT_TO_SPEECH_SPEED": {
+          "DESCRIPTION": "La vitesse à laquelle le texte de la carte mémoire est prononcé.",
+          "TITLE": "Vitesse de synthèse vocale"
+        },
+        "TYPE_ANSWER": {
+          "DESCRIPTION": "Affichez une zone de texte au recto de chaque carte mémoire et comparez ce que vous tapez à la réponse au dos de la carte.",
+          "TITLE": "Tapez la réponse"
         }
+      },
+      "ORDERING": {
+        "DOCUMENT_CLUSTERS": {
+          "DESCRIPTION": "Préférez pratiquer ensemble les Rems à partir de documents connectés.",
+          "TITLE": "Groupes de documents"
+        },
+        "HIERARCHY_CLUSTERS": {
+          "DESCRIPTION": "Préférez pratiquer les Rems liés les uns aux autres de manière hiérarchique.",
+          "TITLE": "Clusters hiérarchiques"
+        },
+        "REFERENCE_CLUSTERS": {
+          "DESCRIPTION": "Préférez pratiquer des Rems qui se référencent ensemble.",
+          "TITLE": "Clusters de référence"
+        },
+        "TAG_CLUSTERS": {
+          "DESCRIPTION": "Préférez pratiquer Rems avec le même tag ensemble.",
+          "TITLE": "Groupes de balises"
+        }
+      },
+      "STATISTICS": {
+        "MAXIMUM_FLASHCARD_RESPONSE_TIME": {
+          "DESCRIPTION": "Définissez le temps de réponse maximum (en secondes) par carte qui sera comptabilisé dans vos statistiques.",
+          "TITLE": "Limite de temps de réponse de la carte mémoire"
+        }
+      },
+      "VISUAL": {
+        "SHOW_NEXT_REVIEW_TIMES": {
+          "DESCRIPTION": "Affichez le temps jusqu'à la prochaine révision sur chaque bouton de réponse.",
+          "TITLE": "Afficher les heures de révision suivantes"
+        }
+      }
+    },
+    "GLOBAL_INTERFACE": {
+      "COMMUNITY_DOCUMENT_SEARCH_LANGUAGE": {
+        "KEYWORDS": "langue communauté documents rechercher flashcards partager partagé télécharger trouver",
+        "TITLE": "Langue de recherche des cartes mémoire partagées"
+      },
+      "DARK_MODE": {
+        "LABEL": "Utilisez cette palette de couleurs.",
+        "TITLE": "Mode sombre"
+      },
+      "FULL_WIDTH": {
+        "LABEL": "Développez les documents pour utiliser toute la largeur de l'écran.",
+        "TITLE": "Pleine largeur"
+      },
+      "IN_APP_SUGGESTIONS": {
+        "KEYWORDS": "les info-bulles aident à prendre en charge l'apprentissage du didacticiel",
+        "LABEL": "Affichez des conseils sur les fonctionnalités de RemNote que vous pourriez essayer en haut de votre document.",
+        "TITLE": "Conseils d'intégration en haut du document"
+      },
+      "INTERFACE": {
+        "KEYWORDS": "lang langue traduction traduire i18n",
+        "TITLE": "Langue de l'interface RemNote"
+      },
+      "LEFT_SIDEBAR_TUTORIALS": {
+        "KEYWORDS": "dans l'application, les info-bulles des didacticiels de la barre latérale gauche aident à prendre en charge l'apprentissage du didacticiel"
       }
     }
   }
