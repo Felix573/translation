@@ -531,7 +531,33 @@
         "TITLE": "Langue de l'interface RemNote"
       },
       "LEFT_SIDEBAR_TUTORIALS": {
-        "KEYWORDS": "dans l'application, les info-bulles des didacticiels de la barre latérale gauche aident à prendre en charge l'apprentissage du didacticiel"
+        "KEYWORDS": "dans l'application, les info-bulles des didacticiels de la barre latérale gauche aident à prendre en charge l'apprentissage du didacticiel",
+        "LABEL": "Affichez des didacticiels sur les fonctionnalités de RemNote en bas de votre barre latérale.",
+        "TITLE": "Tutoriels intégrés à l'application"
+      },
+      "ONBOARDING_TIPS_SHORTCUTS": {
+        "KEYWORDS": "les info-bulles aident à prendre en charge l'apprentissage du didacticiel",
+        "LABEL": "Affichez des conseils sur les raccourcis clavier que vous utilisez actuellement dans le coin de l'écran.",
+        "TITLE": "Conseils sur les raccourcis clavier"
+      }
+    },
+    "KEYBOARD_SHORTCUTS": {
+      "CHANGE_KEYBOARD_SHORTCUTS": {
+        "DESCRIPTION": "Personnalisez les raccourcis clavier mappant la liaison des touches.",
+        "KEYWORDS": "personnaliser les raccourcis clavier mappant la liaison des touches",
+        "TITLE": "Modifier les raccourcis clavier"
+      },
+      "DEFAULT_TO_LEGACY_KEYBOARD_SHORTCUTS": {
+        "DESCRIPTION": "Par défaut, les anciens raccourcis clavier (avant la mise à jour d'août 2020).",
+        "TITLE": "Par défaut vers les raccourcis clavier hérités"
+      },
+      "DOUBLE_SLASH_FOR_COMMAND_MENU": {
+        "DESCRIPTION": "Tapez // au lieu de / pour déclencher des commandes lors de l'édition de Rems.",
+        "TITLE": "Double barre oblique pour le menu de commande"
+      },
+      "ENTER_TO_OUTDENT": {
+        "LABEL": "Lorsque vous appuyez sur Entrée sur un Rem sans contenu qui ne se trouve pas au niveau supérieur du document, dépassez d'un niveau. (Si désactivé, restez au même niveau et laissez un Rem vide.)",
+        "TITLE": "Appuyez sur Entrée pour sortir"
       }
     }
   }
