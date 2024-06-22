@@ -170,6 +170,9 @@
         "BASIC_CARDS": "Carte de base",
         "BASIC_CARDS_TOOLTIP": "Générez des cartes mémoires questions-réponses de base à partir du texte sélectionné.",
         "CLOZE_CARDS": "Cartes à trous (Remplir les blancs)",
+        "CLOZE_CARDS_TOOLTIP": "Générer des cartes à trous à partir du texte sélectionné.",
+        "CONCEPT_CARDS": "Cartes de concepts",
+        "CONCEPT_CARDS_TOOLTIP": "Générer des cartes de concept-descripteur à partir du texte sélectionné.",
         "GENERATE_SECTION": "GÉNÉRER"
       },
       "CLOZE_BTN_TOOLTIP": "Cartes à trous (Remplir les blancs)",
@@ -226,6 +229,7 @@
   "POPUPS": {
     "CREATE_CONTENT_OPTIONS": {
       "DOCUMENT": {
+        "DESCRIPTION": "Organiser les cartes mémoire et les notes dans des documents.",
         "TITLE": "Document"
       },
       "FOLDER": {
@@ -247,8 +251,87 @@
       "UPLOAD_FILE": {
         "DESCRIPTION": "Mettez en surbrillance et référencez des PDF, des PPT, des documents Word, etc.",
         "FEATURE_NAME": "Surlignage PDF",
-        "PAYWALL": "Vous avez atteint votre limite de téléchargements PDF."
+        "PAYWALL": "Vous avez atteint votre limite de téléchargements PDF.",
+        "TITLE": "Télécharger et annoter un fichier",
+        "todo_for_the_item_below": "Voulez-vous déplacer ceci dans un objet de nom de fonctionnalité globale ?"
       }
+    }
+  },
+  "POWERUPS": {
+    "POWERUP_one": "Ameliorer",
+    "POWERUP_other": "Ameliorer"
+  },
+  "SETTINGS": {
+    "ACCOUNT": {
+      "ADVANCED": {
+        "KEYWORDS": "Correction d'un bug de recherche de connecteur"
+      },
+      "ADVANCED_TITLE": "Réglages avancés",
+      "AUTHENTICATION": {
+        "KEYWORDS": "Se déconnecter Se déconnecter Méthode de connexion Google Ajouter Déconnecter Se connecter S'inscrire"
+      },
+      "AUTHENTICATION_TITLE": "Authentification",
+      "CACHING": {
+        "DESCRIPTION": "Mettre en cache les images lorsqu’elles sont chargées afin qu’elles puissent être visualisées hors ligne.",
+        "NUMBER_DESCRIPTION": "Définissez le nombre maximum d'images à mettre en cache. Lorsque la limite est atteinte, les images les plus anciennes seront effacées du cache.",
+        "NUMBER_TITLE": "Nombre maximal d'images mises en cache",
+        "TITLE": "Mise en cache",
+        "TOGGLE_DESCRIPTION": "Lorsqu'elle est désactivée, toutes les images mises en cache seront effacées.",
+        "TOGGLE_TITLE": "Activer le cache"
+      },
+      "DANGER_ZONE": {
+        "KEYWORDS": "journal de synchronisation supprimer le compte réinitialiser la procédure pas à pas la progression réinitialiser l'intégration les paramètres avancés du compte",
+        "TITLE": "Zone importante"
+      },
+      "DANGER_ZONE_TITLE": "Zone importante",
+      "EXPORT_IMPORT": {
+        "KEYWORDS": "Exporter la sauvegarde vers Roam, Dynalist, Logseq, Notion, Evernote, Obsidian"
+      },
+      "IMPORT_EXPORT_TITLE": "Importer et exporter",
+      "MY_PROFILE": "Mon profil",
+      "NAVIGATION": {
+        "KEYWORDS": "Exporter et sauvegarder la corbeille, voir les éléments supprimés, importer des Rem, base de connaissances, voir toutes les cartes, télécharger une sauvegarde quotidienne, paramètres avancés, supprimer tous les Rem"
+      },
+      "NAVIGATION_TITLE": "La navigation",
+      "PRIVACY": {
+        "KEYWORDS": "confidentialité",
+        "TITLE": "Confidentialité"
+      },
+      "PRIVACY_NOTE": "Confidentialité : lisez notre<policyLink> politique de confidentialité</policyLink> , ou modifiez vos paramètres dans notre<hubLink> Centre de confidentialité</hubLink> .",
+      "PROFILE": {
+        "KEYWORDS": "Profil d'utilisateur personnel"
+      },
+      "PROFILE_TITLE": "Profil",
+      "SUPPORT": {
+        "KEYWORDS": "aide à l'exécution des tickets d'assistance",
+        "TITLE": "Soutien"
+      },
+      "SYNCING": {
+        "KEYWORDS": "Forcer la synchronisation des images et des PDF",
+        "TITLE": "Synchronisation"
+      },
+      "VERSION": {
+        "KEYWORDS": "version",
+        "TITLE": "Version de l'application"
+      }
+    },
+    "EARN_CREDIT": {
+      "APPLY_CREDIT": "Appliquez votre crédit",
+      "COPIED": "Copié!",
+      "COPYLINK": "Copier le lien",
+      "CREATE_ACCOUNT": "Créez un compte pour inviter des amis",
+      "CREDIT_BALANCE": "Solde de crédit",
+      "CREDIT_BALANCE_TEXT": "Tu as<bold> {{userCredit}}</bold> crédit restant et gagné<bold> {{userCreditEarned}}</bold> crédit au total. {{months}} mois ou mois restants de RemNote Pro gratuitement.<br /><br /> Abonnez-vous à Pro pour commencer à utiliser votre crédit ! Vous ne serez pas facturé jusqu'à épuisement de votre crédit.",
+      "EMAIL_PLACEHOLDER": "amiscurieux@gmail.com",
+      "ENTER_VALID_EMAIL": "Entrez une adresse email valide!",
+      "FRIEND_ALREADY_ON_REMNOTE": "Votre ami est déjà sur RemNote",
+      "FRIENDS_TITLE": "Amis",
+      "HANG_ON": "Accrochez-vous",
+      "INVITE": "Inviter",
+      "INVITE_COPIED": "Lien d'invitation copié !",
+      "INVITE_EMAIL": "Inviter par e-mail",
+      "INVITE_ERROR": "Quelque chose s'est mal passé. Veuillez réessayer plus tard.",
+      "INVITE_FRIENDS_EARN_CREDIT": "Gagnez du crédit RemNote {{monthlyPrice}} pour chaque ami que vous invitez ! Ils recevront également un crédit {{monthlyPrice}} pour commencer."
     }
   }
 }
