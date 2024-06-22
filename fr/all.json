@@ -403,6 +403,46 @@
       "PREVIEW_REM_ON_HOVER": {
         "LABEL": "Lorsque vous survolez une référence, affichez un aperçu de son contenu.",
         "TITLE": "Aperçu des références au survol"
+      },
+      "SCALE_COLLAPSED_REM_BULLETS": {
+        "LABEL": "Agrandir ou réduire l'anneau autour de la puce en fonction du nombre de descendants",
+        "TITLE": "Redimensionner les puces des Rem réduits"
+      },
+      "SINGLE_CLICK_REFERENCES_TO_OPEN": {
+        "LABEL": "Lorsque vous cliquez ou appuyez sur une référence, accédez immédiatement à sa cible, plutôt que d'ouvrir le menu de référence. (Vous pouvez toujours afficher le menu de référence en cliquant avec le bouton droit.)",
+        "TITLE": "Références en un seul clic à ouvrir"
+      },
+      "SMOOTHLY_ANIMATE_THE_EDITOR": {
+        "LABEL": "Animez l’ajout ou la suppression de Rems dans l’éditeur.",
+        "TITLE": "Animer en douceur l'éditeur"
+      }
+    },
+    "FLASHCARDS": {
+      "DAILY_TARGET": {
+        "MAXIMUM_DAILY_TARGET": {
+          "TITLE": "Cible",
+          "DESCRIPTION": "Pratiquez au moins ce nombre de cartes mémoire chaque jour pour établir des séries."
+        },
+        "TODAYS_TARGET": "Objectif lissé du jour :",
+        "TODAYS_TARGET_EXPLANATION": "Si RemNote prévoit que, au cours de la semaine prochaine, vous aurez en moyenne moins de cartes à réviser que votre objectif quotidien configuré, nous réduirons temporairement votre objectif quotidien afin que vous ayez un nombre de cartes à peu près égal chaque jour, plutôt qu'un grand nombre au début et moins à la fin.\""
+      },
+      "GENERAL": {
+        "AUTOPLAY_MEDIA": {
+          "DESCRIPTION": "Lisez automatiquement du contenu audio ou vidéo sur des flashcards.",
+          "TITLE": "Lecture automatique des médias"
+        },
+        "AUTOPLAY_TEXT_TO_SPEECH": {
+          "DESCRIPTION": "Lorsque vous affichez une carte mémoire, lisez automatiquement l'audio de synthèse vocale pour le recto de la carte et le verso une fois révélé.",
+          "TITLE": "Lecture automatique de la synthèse vocale"
+        },
+        "LEARN_AHEAD_LIMIT": {
+          "DESCRIPTION": "Lorsque vous avez pratiqué toutes les cartes qui sont dues, à quelle distance du futur pouvons-nous prendre les cartes qui ne sont pas encore dues ? Cela vous évite de devoir vous entraîner à nouveau très rapidement.",
+          "TITLE": "Limite d'apprentissage à l'avance"
+        },
+        "LEECH_THRESHOLD": {
+          "DESCRIPTION": "Émettez un avertissement après avoir appuyé plusieurs fois sur « Oublié » sur une carte difficile.<leechArticle> En savoir plus sur les sangsues.</leechArticle>",
+          "TITLE": "Seuil de sangsue"
+        }
       }
     }
   }
