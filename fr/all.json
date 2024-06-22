@@ -331,7 +331,33 @@
       "INVITE_COPIED": "Lien d'invitation copié !",
       "INVITE_EMAIL": "Inviter par e-mail",
       "INVITE_ERROR": "Quelque chose s'est mal passé. Veuillez réessayer plus tard.",
-      "INVITE_FRIENDS_EARN_CREDIT": "Gagnez du crédit RemNote {{monthlyPrice}} pour chaque ami que vous invitez ! Ils recevront également un crédit {{monthlyPrice}} pour commencer."
+      "INVITE_FRIENDS_EARN_CREDIT": "Gagnez du crédit RemNote {{monthlyPrice}} pour chaque ami que vous invitez ! Ils recevront également un crédit {{monthlyPrice}} pour commencer.",
+      "INVITE_FRIENDS_REMNOTE": "Invitez vos amis sur RemNote !",
+      "INVITE_TEXT": "Inviter des amis",
+      "INVITED_YOU": " (vous a invité)",
+      "KEYWORDS": "inviter des amis gagner du crédit changer de plan d'abonnement gagner des crédits remnote gratuit envoyer un tweet e-mail choisir un plan formation continue pro répartition des fonctionnalités options de tarification",
+      "NOT_CONFIRMED_EMAIL": " (n'a pas confirmé l'e-mail)",
+      "SEND_INVITE": "Envoyer une invitation",
+      "SHARE_LINK": "Lien de partage",
+      "TITLE": "Gagner des crédits",
+      "TOAST_RENEW": "Vos crédits seront appliqués automatiquement lors du renouvellement de votre abonnement actuel.",
+      "TOAST_SUBSCRIBE": "Vos crédits seront appliqués automatiquement lorsque vous vous abonnerez à RemNote Pro. Choisissez un plan ci-dessous pour commencer !",
+      "VERIFY_EMAIL": "Pour inviter quelqu'un, vérifiez d'abord votre adresse e-mail."
+    },
+    "EDITOR": {
+      "DATES_AND_TIMES": {
+        "DATE_FORMATTING": {
+          "DESCRIPTION": "Afficher les dates dans RemNote dans ce format.",
+          "TITLE": "Formatage des dates"
+        },
+        "DATE_FORMATTING_CUSTOM": {
+          "DESCRIPTION": "Formatez votre date comme vous le souhaitez en utilisant les options proposées.",
+          "TITLE": "Formatage de date personnalisé"
+        },
+        "TIME_FORMATTING": {
+          "DESCRIPTION": "Formatez les heures insérées avec /time comme ceci."
+        }
+      }
     }
   }
 }
