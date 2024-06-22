@@ -676,7 +676,47 @@
       "LABEL": "Recherche d'image",
       "PDF": "PDF",
       "PDF_WITH_COUNT_one": "{{count, number}} PDF",
-      "PDF_WITH_COUNT_other": "{{count, number}} PDF"
+      "PDF_WITH_COUNT_other": "{{count, number}} PDF",
+      "SELECT_FILES": "Sélectionnez les fichiers",
+      "SELECT_FILES_TO_UPLOAD": "Sélectionnez les fichiers à télécharger",
+      "UPLOADING": "Téléchargement..."
+    }
+  },
+  "TABLES": {
+    "MENUS": {
+      "FILTER": {
+        "ADD_ADVANCED_FILTER": "Ajouter un filtre avancé",
+        "FILTER_TITLE": "Filtre",
+        "NO_PROPERTIES_AVAILABLE": "Aucune propriété n'est disponible ; Ajoutez-en un nouveau !"
+      },
+      "SORT": {
+        "SORT_TITLE": "Trier"
+      },
+      "TABLE_CONFIGURATION": {
+        "ADD_LIST_VIEW_TITLE": "Ajouter une vue en liste",
+        "ADD_TABLE_VIEW_TITLE": "Ajouter une vue tableau",
+        "ALL": "Tous",
+        "CELL_LIST_HEIGHT": {
+          "CELL_LIST_HEIGHT_TITLE": "Hauteur de cellule",
+          "CELL_LIST_HEIGHT_TOOLTIP_MESSAGE": "Les cellules peuvent contenir plusieurs puces ! Limitez la hauteur des cellules pour une visualisation plus facile.",
+          "COMFORTABLE_TITLE": "Confortable",
+          "COMPACT_TITLE": "Compact",
+          "FULL_TITLE": "Complet"
+        },
+        "CONFIGURE_TAG_EDIT_TEMPLATES_TITLE": "Configurer les modèles de balises et de modifications",
+        "DELETE_LIST": "Supprimer la liste",
+        "DELETE_TABLE": "Supprimer le tableau",
+        "DUPLICATE_LIST_VIEW_TITLE": "Dupliquer la vue en liste",
+        "DUPLICATE_TABLE_VIEW_TITLE": "Dupliquer la vue en tableau",
+        "DUPLICATE_VIEW_MESSAGE_COMMON": "Dupliquez une vue pour appliquer un nouveau filtre, trier ou plus ! Le contenu est partagé entre les vues de la même source, vous ne vous retrouverez donc pas avec des instances en double accidentelles.",
+        "INCLUDE_NESTED_DESCENDANTS": "Inclure les descendants imbriqués",
+        "LIST_CONFIGURATION_TITLE": "Liste",
+        "MOVE_LIST_TO_TITLE": "Déplacer la liste vers",
+        "MOVE_TABLE_TO_TITLE": "Déplacer le tableau vers",
+        "OPEN_IN_ANOTHER_PANE_TITLE": "Ouvrir dans un autre volet",
+        "PROPERTIES_CONFIGURATION_TITLE": "Configurer",
+        "PROPERTIES_TITLE": "Propriétés"
+      }
     }
   }
 }
