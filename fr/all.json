@@ -442,6 +442,18 @@
         "LEECH_THRESHOLD": {
           "DESCRIPTION": "Émettez un avertissement après avoir appuyé plusieurs fois sur « Oublié » sur une carte difficile.<leechArticle> En savoir plus sur les sangsues.</leechArticle>",
           "TITLE": "Seuil de sangsue"
+        },
+        "NEW_CARDS_PER_DAY": {
+          "TITLE": "Nombre maximum de nouvelles cartes par jour"
+        },
+        "NEXT_DAY_STARTS_AT": {
+          "DESCRIPTION": "Définissez l'heure à laquelle les nouvelles cartes apparaîtront chaque jour dans votre file d'attente.",
+          "TITLE": "La prochain jour commence à"
+        },
+        "RESET_ALL": {
+          "CONFIRM_MESSAGE": "Êtes-vous sûr de vouloir réinitialiser tous les paramètres des cartes mémoire à leurs valeurs par défaut ?",
+          "DESCRIPTION": "Restaurez tous les paramètres des cartes mémoire à leurs valeurs par défaut.",
+          "TITLE": "Réinitialiser les paramètres des cartes mémoires"
         }
       }
     }
