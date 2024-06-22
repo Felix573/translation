@@ -355,8 +355,54 @@
           "TITLE": "Formatage de date personnalisé"
         },
         "TIME_FORMATTING": {
-          "DESCRIPTION": "Formatez les heures insérées avec /time comme ceci."
+          "DESCRIPTION": "Formatez les heures insérées avec /time comme ceci.",
+          "TITLE": "Formatage de l'heure"
+        },
+        "WEEK_STARTS_ON_MONDAY": {
+          "DESCRIPTION": "Lorsque vous sélectionnez des dates à partir d'un sélecteur de date, commencez chaque ligne du calendrier par lundi plutôt que dimanche.",
+          "TITLE": "La semaine commence le lundi"
         }
+      },
+      "GENERAL": {
+        "CAPITALIZE_FROM_SEARCH": {
+          "DESCRIPTION": {
+            "MAC": "Lorsque vous créez un Rem en appuyant sur Cmd+Return dans une recherche, mettez son nom en majuscule.",
+            "PC": "Lorsque vous créez un Rem en appuyant sur Ctrl+Entrée dans une recherche, mettez son nom en majuscule."
+          },
+          "TITLE": "Mettre en majuscule à partir de la recherche"
+        },
+        "CREATE_CONCEPTS_FROM_SEARCH": {
+          "DESCRIPTION": {
+            "MAC": "Lorsque vous créez un Rem en appuyant sur Cmd+Return dans une recherche, transformez-le en Concept.",
+            "PC": "Lorsque vous créez un Rem en appuyant sur Ctrl+Entrée dans une recherche, transformez-le en Concept."
+          },
+          "TITLE": "Créer des concepts à partir de la recherche"
+        },
+        "CREATE_STUBS_FROM_SEARCH": {
+          "DESCRIPTION": {
+            "MAC": "Lorsque vous créez un Rem en appuyant sur Cmd+Return dans une recherche, marquez-le avec « Ebauche ».",
+            "PC": "Lorsque vous créez un Rem en appuyant sur Ctrl+Entrée dans une recherche, marquez-le avec « Ebauche »."
+          },
+          "TITLE": "Créer des talons à partir de la recherche"
+        },
+        "ENABLE_SPELLCHECK": {
+          "DESCRIPTION": "Vérifiez le Rem actuellement ciblé pour les fautes de frappe. La vérification orthographique utilise la ou les langues sélectionnées dans votre navigateur ou votre système d'exploitation.",
+          "TITLE": "Activer la vérification orthographique"
+        },
+        "INSERT_EMOJIS_AS_REFERENCES": {
+          "DESCRIPTION": "Créez une référence lors de la sélection d'un emoji dans la recherche de %%.",
+          "TITLE": "Insérer un Emoji comme références"
+        }
+      }
+    },
+    "EDITOR_INTERFACE": {
+      "ENABLE_ZOOM_INTO_BULLET": {
+        "LABEL": "Lorsque vous cliquez sur la puce, affichez le rem sous forme de page complète",
+        "TITLE": "Activer le zoom sur Bullet"
+      },
+      "PREVIEW_REM_ON_HOVER": {
+        "LABEL": "Lorsque vous survolez une référence, affichez un aperçu de son contenu.",
+        "TITLE": "Aperçu des références au survol"
       }
     }
   }
