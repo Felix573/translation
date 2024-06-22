@@ -715,8 +715,49 @@
         "MOVE_TABLE_TO_TITLE": "Déplacer le tableau vers",
         "OPEN_IN_ANOTHER_PANE_TITLE": "Ouvrir dans un autre volet",
         "PROPERTIES_CONFIGURATION_TITLE": "Configurer",
-        "PROPERTIES_TITLE": "Propriétés"
+        "PROPERTIES_TITLE": "Propriétés",
+        "SHOW_VERTICAL_LINES_TITLE": "Afficher les lignes verticales",
+        "TABLE_CONFIGURATION_TITLE": "Tableau",
+        "VIEW_AS": {
+          "LIST_VIEW": "Liste",
+          "NORMAL_PORTAL_VIEW": "Portail",
+          "TABLE_VIEW": "Tableau",
+          "VIEW_AS_TITLE": "Voir comme"
+        },
+        "ZOOM_IN_TO_LIST_TITLE": "Zoomer sur la liste",
+        "ZOOM_IN_TO_TABLE_TITLE": "Zoomer sur le tableau"
+      },
+      "TAG": {
+        "EDIT_TABLE_NAME": "Modifier le nom de la table",
+        "PRESS_TO_SAVE": "Appuyez sur ↩ pour enregistrer",
+        "RENAME_TAG": "Renommer la balise",
+        "TAG_TITLE": "Nom de la balise",
+        "VIEW_TAG": "Voir l'étiquette"
       }
-    }
+    },
+    "PRIMARY_COLUMN_TITLE": "Nom",
+    "TABLE_CREATION": {
+      "EXISTING_TAG": {
+        "DESCRIPTION": "Connectez-vous à une source {{viewName}} existante.",
+        "TITLE": "Utiliser la balise existante"
+      },
+      "NEW_TAG": {
+        "DESCRIPTION": "Commencez par un {{viewName}} avec une nouvelle balise.",
+        "TITLE": "Créer une nouvelle balise {{viewName}} +"
+      }
+    },
+    "UNTITLED_PROPERTY_TITLE": "Propriété sans titre"
+  },
+  "TAGS": {
+    "INSERT_PROPERTIES": "Insérer des propriétés",
+    "PINNED_TAGS": "Balises épinglées",
+    "SEARCH_PLACEHOLDER": "Rechercher une balise existante pour l'ajouter",
+    "TAG": "Étiqueter",
+    "TAG_WITH_COUNT_one": "{{count, number}} Balise",
+    "TAG_WITH_COUNT_other": "{{count, number}} balises",
+    "YOUR_TAGS": "Vos balises"
+  },
+  "TEMPLATES": {
+    "ADD_NEW_PROPERTY": "Ajouter une nouvelle propriété"
   }
 }
