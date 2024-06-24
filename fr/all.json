@@ -469,7 +469,8 @@
         },
         "TEXT_TO_SPEECH_VOICE": {
           "DESCRIPTION": "La voix utilisée pour la synthèse vocale. Notez que certaines voix ne fonctionnent que pour certaines langues.",
-          "TITLE": "Synthèse vocale"
+          "TITLE": "Synthèse vocale",
+          "SAMPLE": "Les mitochondries sont les réserves d'énergie de la cellule."
         },
         "TEXT_TO_SPEECH_SPEED": {
           "DESCRIPTION": "La vitesse à laquelle le texte de la carte mémoire est prononcé.",
